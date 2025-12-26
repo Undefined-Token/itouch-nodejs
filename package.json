@@ -1,0 +1,24 @@
+{
+  "name": "itouch-auto",
+  "version": "1.0.5",
+  "description": "iTouch Automation Tool Without Jailbreak NodeJS Package.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Undefined-Token/itouch-nodejs.git"
+  },
+  "keywords": [
+    "IOS",
+    "Automation",
+    "Without Jailbreak"
+  ],
+  "author": "iTouch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Undefined-Token/itouch-nodejs/issues"
+  },
+  "homepage": "https://github.com/Undefined-Token/itouch-nodejs#readme",
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}
